@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/devscunsurori/virtualcunsurori/issues"
   },
-  "homepage": "https://github.com/devscunsurori/virtualcunsurori#readme"
+  "homepage": "https://github.com/devscunsurori/virtualcunsurori#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
